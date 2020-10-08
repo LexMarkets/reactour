@@ -1,5 +1,5 @@
 {
-  "name": "reactour",
+  "name": "reactour-lex",
   "version": "1.15.1",
   "description": "Tourist Guide into your React Components",
   "main": "dist/reactour.cjs.js",
@@ -89,5 +89,8 @@
     "react-focus-lock": "2.2.1",
     "scroll-smooth": "1.1.0",
     "scrollparent": "2.0.1"
+  },
+  "directories": {
+    "doc": "docs"
   }
 }
