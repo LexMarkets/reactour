@@ -15,8 +15,7 @@
 
 <br />
 
-> ⚠️ The `master` branch is currently in _development_. Please use the [v1 branch](https://github.com/elrumordelaluz/reactour/tree/v1) to follow the current versions published.
-
+This version has better custom styling control as it removes max-width from the <Guide> styling.
 <br />
 
 ## Install
