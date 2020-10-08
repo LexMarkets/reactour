@@ -6,7 +6,6 @@ const Guide = styled.div`
   ${props =>
     props.defaultStyles
       ? `
-  max-width: 331px;
   min-width: 150px;
   padding-right: 40px;
   border-radius: ${props.rounded}px;
