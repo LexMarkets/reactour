@@ -13,6 +13,11 @@
   </a>
 </p>
 
+
+
+<br>
+This is a fork from elrumordelaluz/reactour. It adds space-between styling for the control bar and has better card styling customization as it removes max-width constraints from <Guide>.
+</br>
 ## Install
 
 ```zsh

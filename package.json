@@ -1,5 +1,5 @@
 {
-  "name": "reactour",
+  "name": "@lexmarkets/reactour",
   "version": "1.18.0",
   "description": "Tourist Guide into your React Components",
   "main": "dist/reactour.cjs.js",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/elrumordelaluz/reactour.git"
+    "url": "git+https://github.com/LexMarkets/reactour"
   },
   "keywords": [
     "react",
@@ -90,5 +90,8 @@
     "react-focus-lock": "2.4.1",
     "scroll-smooth": "1.1.0",
     "scrollparent": "2.0.1"
+  },
+  "directories": {
+    "doc": "docs"
   }
 }
