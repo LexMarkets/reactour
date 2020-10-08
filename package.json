@@ -1,6 +1,6 @@
 {
   "name": "@lexmarkets/reactour-lex",
-  "version": "1.15.2",
+	"version": "1.15.3",
   "description": "Tourist Guide into your React Components (customized for Lex Markets)",
   "main": "dist/reactour.cjs.js",
   "module": "dist/reactour.esm.js",
